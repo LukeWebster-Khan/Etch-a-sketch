@@ -11,4 +11,13 @@ h1 {
 .buttons {
   display: flex;
   flex-direction: column;
+  gap: 20px;
+  border: black;
+  border-radius: 50%;
+  max-width: 400px;
+  align-items: center;
+}
+
+button {
+  padding: 10px 20px;
 }
